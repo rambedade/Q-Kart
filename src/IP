@@ -1,0 +1,6 @@
+// export const config = {
+//   endpoint: `http://${ipConfig.workspaceIp}:8082/api/v1`,
+// };
+export const config = {
+  endpoint: `http://localhost:8081`,
+};
